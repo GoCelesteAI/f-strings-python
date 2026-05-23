@@ -3,7 +3,7 @@
 > An f-string is the modern way to build strings in Python.
 
 
-📺 **Watch:** https://www.youtube.com/watch?v=gddJ9BxsFHk  
+📺 **Watch:** https://www.youtube.com/watch?v=10PAKoV9TgI  
 📖 **Article:** https://www.codegiz.com/blog/f-strings-python/  
 🎓 **Tutorial + quiz:** https://www.codegiz.com/watch/f-strings-python/
 
